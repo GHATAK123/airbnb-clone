@@ -1,4 +1,4 @@
-![Screenshot](Screenshot (605).png)
+![Screenshot](Screenshot(605).png)
 <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
